@@ -1,4 +1,9 @@
 # w0rthy's Array Visualizer, Revamped
+
+Forked from Musicombo's Github
+YouTube- https://youtube.com/@Musicombo?si=V2CFeS4p6H00Z8PY
+
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Q5QLCFZ8G7WY6&currency_code=USD&source=url)
 
 **DEPRECATED** - Visit the new home of ArrayV over here where I'll be contributing from time to time! https://github.com/Gaming32/ArrayV-v4.0
